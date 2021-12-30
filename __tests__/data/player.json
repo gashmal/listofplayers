@@ -1,0 +1,934 @@
+{
+  "id": "mpg_championship_player_stats_2021_100632",
+  "type": "mpg_championship_player_stats",
+  "championships": {
+    "1": {
+      "mpg_championship_club_152": {
+        "stats": {}
+      },
+      "clubs": {
+        "mpg_championship_club_152": {
+          "matches": [
+            {
+              "matchId": "mpg_championship_match_2215503",
+              "gameWeekNumber": 1,
+              "date": "2021-08-08T13:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_152",
+                "score": 1
+              },
+              "away": {
+                "clubId": "mpg_championship_club_694",
+                "score": 1
+              },
+              "playerPerformance": {
+                "status": 3
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215509",
+              "gameWeekNumber": 2,
+              "date": "2021-08-15T15:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_142",
+                "score": 2
+              },
+              "away": {
+                "clubId": "mpg_championship_club_152",
+                "score": 2
+              },
+              "playerPerformance": {
+                "status": 3
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215524",
+              "gameWeekNumber": 3,
+              "date": "2021-08-21T19:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_152",
+                "score": 1
+              },
+              "away": {
+                "clubId": "mpg_championship_club_429",
+                "score": 1
+              },
+              "playerPerformance": {
+                "status": 6
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215530",
+              "gameWeekNumber": 4,
+              "date": "2021-08-28T19:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_144",
+                "score": 3
+              },
+              "away": {
+                "clubId": "mpg_championship_club_152",
+                "score": 1
+              },
+              "playerPerformance": {
+                "status": 6
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215542",
+              "gameWeekNumber": 5,
+              "date": "2021-09-12T11:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_147",
+                "score": 2
+              },
+              "away": {
+                "clubId": "mpg_championship_club_152",
+                "score": 0
+              },
+              "playerPerformance": {
+                "status": 6
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215553",
+              "gameWeekNumber": 6,
+              "date": "2021-09-18T19:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_152",
+                "score": 1
+              },
+              "away": {
+                "clubId": "mpg_championship_club_140",
+                "score": 2
+              },
+              "playerPerformance": {
+                "status": 6
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215562",
+              "gameWeekNumber": 7,
+              "date": "2021-09-22T17:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_146",
+                "score": 3
+              },
+              "away": {
+                "clubId": "mpg_championship_club_152",
+                "score": 1
+              },
+              "playerPerformance": {
+                "status": 3
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215573",
+              "gameWeekNumber": 8,
+              "date": "2021-09-25T15:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_152",
+                "score": 0
+              },
+              "away": {
+                "clubId": "mpg_championship_club_1395",
+                "score": 3
+              },
+              "playerPerformance": {
+                "status": 4
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215585",
+              "gameWeekNumber": 9,
+              "date": "2021-10-03T18:45:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_152",
+                "score": 1
+              },
+              "away": {
+                "clubId": "mpg_championship_club_143",
+                "score": 1
+              },
+              "playerPerformance": {
+                "status": 4
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215594",
+              "gameWeekNumber": 10,
+              "date": "2021-10-17T13:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_153",
+                "score": 5
+              },
+              "away": {
+                "clubId": "mpg_championship_club_152",
+                "score": 1
+              },
+              "playerPerformance": {
+                "status": 4
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215605",
+              "gameWeekNumber": 11,
+              "date": "2021-10-22T19:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_152",
+                "score": 2
+              },
+              "away": {
+                "clubId": "mpg_championship_club_2128",
+                "score": 2
+              },
+              "playerPerformance": {
+                "status": 3
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215611",
+              "gameWeekNumber": 12,
+              "date": "2021-10-30T15:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_145",
+                "score": 1
+              },
+              "away": {
+                "clubId": "mpg_championship_club_152",
+                "score": 1
+              },
+              "playerPerformance": {
+                "status": 2,
+                "rating": 5,
+                "goals": 0,
+                "ownGoals": 0,
+                "minutesPlayed": 47
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215625",
+              "gameWeekNumber": 13,
+              "date": "2021-11-07T14:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_152",
+                "score": 3
+              },
+              "away": {
+                "clubId": "mpg_championship_club_1983",
+                "score": 2
+              },
+              "playerPerformance": {
+                "status": 1,
+                "rating": 5,
+                "goals": 0,
+                "ownGoals": 0,
+                "minutesPlayed": 39
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215635",
+              "gameWeekNumber": 14,
+              "date": "2021-11-21T14:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_154",
+                "score": 0
+              },
+              "away": {
+                "clubId": "mpg_championship_club_152",
+                "score": 1
+              },
+              "playerPerformance": {
+                "status": 4
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215645",
+              "gameWeekNumber": 15,
+              "date": "2021-11-28T12:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_152",
+                "score": 1
+              },
+              "away": {
+                "clubId": "mpg_championship_club_149",
+                "score": 3
+              },
+              "playerPerformance": {
+                "status": 4
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215647",
+              "gameWeekNumber": 16,
+              "date": "2021-12-01T18:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_862",
+                "score": 1
+              },
+              "away": {
+                "clubId": "mpg_championship_club_152",
+                "score": 0
+              },
+              "playerPerformance": {
+                "status": 3
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215665",
+              "gameWeekNumber": 17,
+              "date": "2021-12-05T12:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_152",
+                "score": 0
+              },
+              "away": {
+                "clubId": "mpg_championship_club_150",
+                "score": 5
+              },
+              "playerPerformance": {
+                "status": 6
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215672",
+              "gameWeekNumber": 18,
+              "date": "2021-12-11T20:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_1423",
+                "score": 2
+              },
+              "away": {
+                "clubId": "mpg_championship_club_152",
+                "score": 0
+              },
+              "playerPerformance": {
+                "status": 1,
+                "rating": 4.5,
+                "goals": 0,
+                "ownGoals": 0,
+                "minutesPlayed": 53
+              }
+            },
+            {
+              "matchId": "mpg_championship_match_2215684",
+              "gameWeekNumber": 19,
+              "date": "2021-12-22T20:00:00Z",
+              "home": {
+                "clubId": "mpg_championship_club_152",
+                "score": 0
+              },
+              "away": {
+                "clubId": "mpg_championship_club_430",
+                "score": 1
+              },
+              "playerPerformance": {
+                "status": 1,
+                "rating": 4.5,
+                "goals": 0,
+                "ownGoals": 0,
+                "minutesPlayed": 96
+              }
+            }
+          ],
+          "quotations": [
+            {
+              "quotation": 7,
+              "date": "2021-08-06T19:00:00Z"
+            },
+            {
+              "quotation": 7,
+              "date": "2021-08-13T19:00:00Z"
+            },
+            {
+              "quotation": 7,
+              "date": "2021-08-20T19:00:00Z"
+            },
+            {
+              "quotation": 7,
+              "date": "2021-08-27T19:00:00Z"
+            },
+            {
+              "quotation": 7,
+              "date": "2021-09-10T19:00:00Z"
+            },
+            {
+              "quotation": 7,
+              "date": "2021-09-17T19:00:00Z"
+            },
+            {
+              "quotation": 7,
+              "date": "2021-09-22T17:00:00Z"
+            },
+            {
+              "quotation": 7,
+              "date": "2021-09-25T15:00:00Z"
+            },
+            {
+              "quotation": 7,
+              "date": "2021-10-01T19:00:00Z"
+            },
+            {
+              "quotation": 2,
+              "date": "2021-10-15T19:00:00Z"
+            },
+            {
+              "quotation": 2,
+              "date": "2021-10-22T19:55:00Z"
+            },
+            {
+              "quotation": 2,
+              "date": "2021-10-29T19:00:00Z"
+            },
+            {
+              "quotation": 2,
+              "date": "2021-11-05T20:00:00Z"
+            },
+            {
+              "quotation": 8,
+              "date": "2021-11-19T20:00:00Z"
+            },
+            {
+              "quotation": 8,
+              "date": "2021-11-26T20:00:00Z"
+            },
+            {
+              "quotation": 8,
+              "date": "2021-12-01T18:00:00Z"
+            },
+            {
+              "quotation": 8,
+              "date": "2021-12-04T16:00:00Z"
+            },
+            {
+              "quotation": 3,
+              "date": "2021-12-10T20:00:00Z"
+            },
+            {
+              "quotation": 3,
+              "date": "2021-12-22T20:00:00Z"
+            }
+          ],
+          "stats": {
+            "totalPlayedMatches": 4,
+            "totalStartedMatches": 3,
+            "totalGoals": 0,
+            "totalOwnGoals": 0,
+            "totalYellowCard": 0,
+            "totalRedCard": 0,
+            "totalMinutesPlayed": 235,
+            "totalCleanSheet": 0,
+            "totalGoalsConceded": 2,
+            "totalScoringAtt": 1,
+            "totalShotOffTarget": 1,
+            "totalBigChanceMissed": 0,
+            "totalPenaltiesScored": 0,
+            "totalPenalties": 0,
+            "totalCross": 4,
+            "totalAccurateCross": 0,
+            "totalContest": 1,
+            "totalWonContest": 0,
+            "totalWonDuel": 11,
+            "totalDuel": 23,
+            "totalTouches": 165,
+            "totalLostBall": 36,
+            "totalGoalAssist": 0,
+            "totalIntercept": 7,
+            "totalTackle": 1,
+            "totalMistake": 0,
+            "totalFouls": 5,
+            "totalBigChanceCreated": 0,
+            "totalAccuratePass": 66,
+            "totalPasses": 86,
+            "totalAccuratePassBackZone": 37,
+            "totalPassBackZone": 46,
+            "totalPassFwdZone": 44,
+            "totalAccuratePassFwdZone": 29,
+            "totalAccurateLongPass": 3,
+            "totalLongPass": 6,
+            "totalFouled": 6,
+            "averageRating": 4.75
+          }
+        }
+      },
+      "total": {
+        "matches": [
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215503",
+            "gameWeekNumber": 1,
+            "date": "2021-08-08T13:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_152",
+              "score": 1
+            },
+            "away": {
+              "clubId": "mpg_championship_club_694",
+              "score": 1
+            },
+            "playerPerformance": {
+              "status": 3
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215509",
+            "gameWeekNumber": 2,
+            "date": "2021-08-15T15:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_142",
+              "score": 2
+            },
+            "away": {
+              "clubId": "mpg_championship_club_152",
+              "score": 2
+            },
+            "playerPerformance": {
+              "status": 3
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215524",
+            "gameWeekNumber": 3,
+            "date": "2021-08-21T19:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_152",
+              "score": 1
+            },
+            "away": {
+              "clubId": "mpg_championship_club_429",
+              "score": 1
+            },
+            "playerPerformance": {
+              "status": 6
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215530",
+            "gameWeekNumber": 4,
+            "date": "2021-08-28T19:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_144",
+              "score": 3
+            },
+            "away": {
+              "clubId": "mpg_championship_club_152",
+              "score": 1
+            },
+            "playerPerformance": {
+              "status": 6
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215542",
+            "gameWeekNumber": 5,
+            "date": "2021-09-12T11:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_147",
+              "score": 2
+            },
+            "away": {
+              "clubId": "mpg_championship_club_152",
+              "score": 0
+            },
+            "playerPerformance": {
+              "status": 6
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215553",
+            "gameWeekNumber": 6,
+            "date": "2021-09-18T19:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_152",
+              "score": 1
+            },
+            "away": {
+              "clubId": "mpg_championship_club_140",
+              "score": 2
+            },
+            "playerPerformance": {
+              "status": 6
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215562",
+            "gameWeekNumber": 7,
+            "date": "2021-09-22T17:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_146",
+              "score": 3
+            },
+            "away": {
+              "clubId": "mpg_championship_club_152",
+              "score": 1
+            },
+            "playerPerformance": {
+              "status": 3
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215573",
+            "gameWeekNumber": 8,
+            "date": "2021-09-25T15:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_152",
+              "score": 0
+            },
+            "away": {
+              "clubId": "mpg_championship_club_1395",
+              "score": 3
+            },
+            "playerPerformance": {
+              "status": 4
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215585",
+            "gameWeekNumber": 9,
+            "date": "2021-10-03T18:45:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_152",
+              "score": 1
+            },
+            "away": {
+              "clubId": "mpg_championship_club_143",
+              "score": 1
+            },
+            "playerPerformance": {
+              "status": 4
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215594",
+            "gameWeekNumber": 10,
+            "date": "2021-10-17T13:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_153",
+              "score": 5
+            },
+            "away": {
+              "clubId": "mpg_championship_club_152",
+              "score": 1
+            },
+            "playerPerformance": {
+              "status": 4
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215605",
+            "gameWeekNumber": 11,
+            "date": "2021-10-22T19:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_152",
+              "score": 2
+            },
+            "away": {
+              "clubId": "mpg_championship_club_2128",
+              "score": 2
+            },
+            "playerPerformance": {
+              "status": 3
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215611",
+            "gameWeekNumber": 12,
+            "date": "2021-10-30T15:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_145",
+              "score": 1
+            },
+            "away": {
+              "clubId": "mpg_championship_club_152",
+              "score": 1
+            },
+            "playerPerformance": {
+              "status": 2,
+              "rating": 5,
+              "goals": 0,
+              "ownGoals": 0,
+              "minutesPlayed": 47
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215625",
+            "gameWeekNumber": 13,
+            "date": "2021-11-07T14:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_152",
+              "score": 3
+            },
+            "away": {
+              "clubId": "mpg_championship_club_1983",
+              "score": 2
+            },
+            "playerPerformance": {
+              "status": 1,
+              "rating": 5,
+              "goals": 0,
+              "ownGoals": 0,
+              "minutesPlayed": 39
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215635",
+            "gameWeekNumber": 14,
+            "date": "2021-11-21T14:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_154",
+              "score": 0
+            },
+            "away": {
+              "clubId": "mpg_championship_club_152",
+              "score": 1
+            },
+            "playerPerformance": {
+              "status": 4
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215645",
+            "gameWeekNumber": 15,
+            "date": "2021-11-28T12:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_152",
+              "score": 1
+            },
+            "away": {
+              "clubId": "mpg_championship_club_149",
+              "score": 3
+            },
+            "playerPerformance": {
+              "status": 4
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215647",
+            "gameWeekNumber": 16,
+            "date": "2021-12-01T18:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_862",
+              "score": 1
+            },
+            "away": {
+              "clubId": "mpg_championship_club_152",
+              "score": 0
+            },
+            "playerPerformance": {
+              "status": 3
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215665",
+            "gameWeekNumber": 17,
+            "date": "2021-12-05T12:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_152",
+              "score": 0
+            },
+            "away": {
+              "clubId": "mpg_championship_club_150",
+              "score": 5
+            },
+            "playerPerformance": {
+              "status": 6
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215672",
+            "gameWeekNumber": 18,
+            "date": "2021-12-11T20:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_1423",
+              "score": 2
+            },
+            "away": {
+              "clubId": "mpg_championship_club_152",
+              "score": 0
+            },
+            "playerPerformance": {
+              "status": 1,
+              "rating": 4.5,
+              "goals": 0,
+              "ownGoals": 0,
+              "minutesPlayed": 53
+            }
+          },
+          {
+            "playerClubId": "mpg_championship_club_152",
+            "matchId": "mpg_championship_match_2215684",
+            "gameWeekNumber": 19,
+            "date": "2021-12-22T20:00:00Z",
+            "home": {
+              "clubId": "mpg_championship_club_152",
+              "score": 0
+            },
+            "away": {
+              "clubId": "mpg_championship_club_430",
+              "score": 1
+            },
+            "playerPerformance": {
+              "status": 1,
+              "rating": 4.5,
+              "goals": 0,
+              "ownGoals": 0,
+              "minutesPlayed": 96
+            }
+          }
+        ],
+        "quotations": [
+          {
+            "quotation": 7,
+            "date": "2021-08-06T19:00:00Z"
+          },
+          {
+            "quotation": 7,
+            "date": "2021-08-13T19:00:00Z"
+          },
+          {
+            "quotation": 7,
+            "date": "2021-08-20T19:00:00Z"
+          },
+          {
+            "quotation": 7,
+            "date": "2021-08-27T19:00:00Z"
+          },
+          {
+            "quotation": 7,
+            "date": "2021-09-10T19:00:00Z"
+          },
+          {
+            "quotation": 7,
+            "date": "2021-09-17T19:00:00Z"
+          },
+          {
+            "quotation": 7,
+            "date": "2021-09-22T17:00:00Z"
+          },
+          {
+            "quotation": 7,
+            "date": "2021-09-25T15:00:00Z"
+          },
+          {
+            "quotation": 7,
+            "date": "2021-10-01T19:00:00Z"
+          },
+          {
+            "quotation": 2,
+            "date": "2021-10-15T19:00:00Z"
+          },
+          {
+            "quotation": 2,
+            "date": "2021-10-22T19:55:00Z"
+          },
+          {
+            "quotation": 2,
+            "date": "2021-10-29T19:00:00Z"
+          },
+          {
+            "quotation": 2,
+            "date": "2021-11-05T20:00:00Z"
+          },
+          {
+            "quotation": 8,
+            "date": "2021-11-19T20:00:00Z"
+          },
+          {
+            "quotation": 8,
+            "date": "2021-11-26T20:00:00Z"
+          },
+          {
+            "quotation": 8,
+            "date": "2021-12-01T18:00:00Z"
+          },
+          {
+            "quotation": 8,
+            "date": "2021-12-04T16:00:00Z"
+          },
+          {
+            "quotation": 3,
+            "date": "2021-12-10T20:00:00Z"
+          },
+          {
+            "quotation": 3,
+            "date": "2021-12-22T20:00:00Z"
+          }
+        ],
+        "stats": {
+          "totalPlayedMatches": 4,
+          "totalStartedMatches": 3,
+          "totalGoals": 0,
+          "totalOwnGoals": 0,
+          "totalYellowCard": 0,
+          "totalRedCard": 0,
+          "totalMinutesPlayed": 235,
+          "totalCleanSheet": 0,
+          "totalGoalsConceded": 2,
+          "totalScoringAtt": 1,
+          "totalShotOffTarget": 1,
+          "totalBigChanceMissed": 0,
+          "totalPenaltiesScored": 0,
+          "totalPenalties": 0,
+          "totalCross": 4,
+          "totalAccurateCross": 0,
+          "totalContest": 1,
+          "totalWonContest": 0,
+          "totalWonDuel": 11,
+          "totalDuel": 23,
+          "totalTouches": 165,
+          "totalLostBall": 36,
+          "totalGoalAssist": 0,
+          "totalIntercept": 7,
+          "totalTackle": 1,
+          "totalMistake": 0,
+          "totalFouls": 5,
+          "totalBigChanceCreated": 0,
+          "totalAccuratePass": 66,
+          "totalPasses": 86,
+          "totalAccuratePassBackZone": 37,
+          "totalPassBackZone": 46,
+          "totalPassFwdZone": 44,
+          "totalAccuratePassFwdZone": 29,
+          "totalAccurateLongPass": 3,
+          "totalLongPass": 6,
+          "totalFouled": 6,
+          "averageRating": 4.75
+        }
+      },
+      "keySeasonStats": {
+        "quotation": 3,
+        "averageRating": 4.75,
+        "percentageCleanSheet": 0,
+        "ratioGoalsConceded": 0.5,
+        "ratioInterceptions": 1.75,
+        "percentageStarter": 15.789473684210526
+      },
+      "percentRanks": {
+        "quotation": 0.035,
+        "averageRating": 0.266,
+        "percentageCleanSheet": 0,
+        "ratioGoalsConceded": 0.928,
+        "ratioInterceptions": 0.865,
+        "percentageStarter": 0.093
+      }
+    }
+  },
+  "position": 2,
+  "ultraPosition": 21
+}
